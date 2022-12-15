@@ -1,7 +1,7 @@
 # Atividade do Hospital
 
 # Parte 1 - Hospital Fundamental
-Na primeira parte tinhamos que fazer um Diagrama ER após analisar a seguinte descrição:
+Na primeira parte tinhamos que fazer um Diagrama ER sem adicionar os atributos, após analisar a seguinte descrição:
 
 O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais especialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
 
@@ -14,4 +14,10 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 E com isso, o Diagrama ER ficou desta forma:
 
 ![diagrama_hospital](https://user-images.githubusercontent.com/55607131/207932630-ea0472ab-6503-45e2-b692-d373838f287e.jpg)
+
+
+# Parte 2 - Os Segredos do Hospital
+
+Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na internação de pacientes. Será necessário expandir o Modelo ER desenvolvido adicionando novas entidades e seus respectivos atributos.
+
 
